@@ -33,6 +33,6 @@ if (process.env.NODE_ENV === "production") {
 }
 
 server.listen(port, () => {
-    console.log(`Example app listening on port ${port}!`)
+    console.log(`Online Chat app listening on port ${port}!`)
     connectDB();
 })

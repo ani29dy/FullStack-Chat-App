@@ -55,30 +55,30 @@ root/
 ├── frontend
 │ ├── public/
 │ ├── src/
-│   ├── assets/
-│   ├── componenst/
-│   ├── constants/
-│   ├── lib/
-│   ├── pages/
-│   ├── store/
-│ └── eslint.config.js
-│ └── index.html
-│ └── package.json
-│ └── package-lock.json
-│ └── postcss.config.js
-│ └── tailwind.config.js
-│ └── vite.config.js
+│ │ ├── assets/
+│ │ ├── components/
+│ │ ├── constants/
+│ │ ├── lib/
+│ │ ├── pages/
+│ │ ├── store/
+│ ├── eslint.config.js
+│ ├── index.html
+│ ├── package.json
+│ ├── package-lock.json
+│ ├── postcss.config.js
+│ ├── tailwind.config.js
+│ ├── vite.config.js
 │
 ├── backend
-│ ├── src
-│   ├── controllers/
-│   ├── lib/
-│   ├── models/
-│   ├── middleware/
-│   ├── routes/
-│   └── server.js
-│ └── package.json
-│ └── package-lock.json
+│ ├── src/
+│ │ ├── controllers/
+│ │ ├── lib/
+│ │ ├── models/
+│ │ ├── middleware/
+│ │ ├── routes/
+│ │ └── server.js
+│ ├── package.json
+│ ├── package-lock.json
 │
 ├── .gitignore
 ├── README.md

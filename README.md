@@ -1,4 +1,4 @@
-# 💬 Full Stack Real-Time Chat Application
+# 💬 Full Stack Online Chat Application
 
 A modern, full-stack real-time chat application built during my internship.  
 This project supports **instant messaging**, **real-time updates**, **user authentication**, and a clean, responsive **UI**.
@@ -48,41 +48,6 @@ This project supports **instant messaging**, **real-time updates**, **user authe
 - Cloud Deployment (Render)
 
 ---
-
-## 📁 Project Structure
-
-root/
-├── frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── components/
-│ │ ├── constants/
-│ │ ├── lib/
-│ │ ├── pages/
-│ │ ├── store/
-│ ├── eslint.config.js
-│ ├── index.html
-│ ├── package.json
-│ ├── package-lock.json
-│ ├── postcss.config.js
-│ ├── tailwind.config.js
-│ ├── vite.config.js
-│
-├── backend
-│ ├── src/
-│ │ ├── controllers/
-│ │ ├── lib/
-│ │ ├── models/
-│ │ ├── middleware/
-│ │ ├── routes/
-│ │ └── server.js
-│ ├── package.json
-│ ├── package-lock.json
-│
-├── .gitignore
-├── README.md
-└── package.json
 
 ## ⚙️ Installation & Setup
 
